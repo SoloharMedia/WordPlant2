@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-VC2IGQCH</Machine>
+    <WindowsUser>hardy</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>26108d23-df3a-43e1-8e1b-d1a6ec302d56</PackageIdentityName>
+    <PackageIdentityPublisher>CN=C1174695-C2F5-4B56-AD01-EC58941A4D6C</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\600x600wp.png">
+      <PackagePath>Assets\600x600wp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\A.png">
+      <PackagePath>Assets\ImagesWP\A.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\B.png">
+      <PackagePath>Assets\ImagesWP\B.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\button.png">
+      <PackagePath>Assets\ImagesWP\button.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\buttonContinue.png">
+      <PackagePath>Assets\ImagesWP\buttonContinue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\buttonHowToPlay.png">
+      <PackagePath>Assets\ImagesWP\buttonHowToPlay.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\buttonNewGame.png">
+      <PackagePath>Assets\ImagesWP\buttonNewGame.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\C.png">
+      <PackagePath>Assets\ImagesWP\C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\D.png">
+      <PackagePath>Assets\ImagesWP\D.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\E.png">
+      <PackagePath>Assets\ImagesWP\E.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\F.png">
+      <PackagePath>Assets\ImagesWP\F.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\G.png">
+      <PackagePath>Assets\ImagesWP\G.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\H.png">
+      <PackagePath>Assets\ImagesWP\H.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\I.png">
+      <PackagePath>Assets\ImagesWP\I.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\J.png">
+      <PackagePath>Assets\ImagesWP\J.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\K.png">
+      <PackagePath>Assets\ImagesWP\K.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\L.png">
+      <PackagePath>Assets\ImagesWP\L.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\M.png">
+      <PackagePath>Assets\ImagesWP\M.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\machineFinal.png">
+      <PackagePath>Assets\ImagesWP\machineFinal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\machineFinal2.png">
+      <PackagePath>Assets\ImagesWP\machineFinal2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\myButton.png">
+      <PackagePath>Assets\ImagesWP\myButton.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\N.png">
+      <PackagePath>Assets\ImagesWP\N.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\O.png">
+      <PackagePath>Assets\ImagesWP\O.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\P.png">
+      <PackagePath>Assets\ImagesWP\P.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\Q.png">
+      <PackagePath>Assets\ImagesWP\Q.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\R.png">
+      <PackagePath>Assets\ImagesWP\R.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\S.png">
+      <PackagePath>Assets\ImagesWP\S.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\smoke.png">
+      <PackagePath>Assets\ImagesWP\smoke.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\T.png">
+      <PackagePath>Assets\ImagesWP\T.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\U.png">
+      <PackagePath>Assets\ImagesWP\U.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\V.png">
+      <PackagePath>Assets\ImagesWP\V.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\W.png">
+      <PackagePath>Assets\ImagesWP\W.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\X.png">
+      <PackagePath>Assets\ImagesWP\X.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\Y.png">
+      <PackagePath>Assets\ImagesWP\Y.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\ImagesWP\Z.png">
+      <PackagePath>Assets\ImagesWP\Z.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\NewStoreLogo.scale-100.png">
+      <PackagePath>Assets\NewStoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\NewStoreLogo.scale-125.png">
+      <PackagePath>Assets\NewStoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\NewStoreLogo.scale-150.png">
+      <PackagePath>Assets\NewStoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\NewStoreLogo.scale-200.png">
+      <PackagePath>Assets\NewStoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\NewStoreLogo.scale-400.png">
+      <PackagePath>Assets\NewStoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Sounds\action.wav">
+      <PackagePath>Assets\Sounds\action.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Sounds\gameover.wav">
+      <PackagePath>Assets\Sounds\gameover.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Sounds\musicBackground.mp3">
+      <PackagePath>Assets\Sounds\musicBackground.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Sounds\musicStartMenu.wav">
+      <PackagePath>Assets\Sounds\musicStartMenu.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Sounds\rightAnswer.wav">
+      <PackagePath>Assets\Sounds\rightAnswer.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Sounds\wrongAnswer.wav">
+      <PackagePath>Assets\Sounds\wrongAnswer.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-125.png">
+      <PackagePath>Assets\Square310x310Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-150.png">
+      <PackagePath>Assets\Square310x310Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-200.png">
+      <PackagePath>Assets\Square310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-400.png">
+      <PackagePath>Assets\Square310x310Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-125.png">
+      <PackagePath>Assets\Square71x71Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-150.png">
+      <PackagePath>Assets\Square71x71Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-200.png">
+      <PackagePath>Assets\Square71x71Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-400.png">
+      <PackagePath>Assets\Square71x71Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\Assets\wordDict.txt">
+      <PackagePath>Assets\wordDict.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\WordPlant2.dll">
+      <PackagePath>WordPlant2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\WordPlant2.exe">
+      <PackagePath>WordPlant2.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x86\Release\ilc\WordPlant2.pdb">
+      <PackagePath>WordPlant2.pdb</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Advertising.Xaml\10.0\">
+      <Name>Microsoft.Advertising.Xaml</Name>
+      <Version>10.0.1606.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Advertising.Xaml, MinVersion=10.0.1606.0, Publisher=%27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Advertising.Xaml\10.0\.\AppX\ARM\Microsoft.Advertising.Xaml.ARM.10.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkID=619694</MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Advertising.Xaml\10.0\">
+      <Name>Microsoft.Advertising.Xaml</Name>
+      <Version>10.0.1606.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Advertising.Xaml, MinVersion=10.0.1606.0, Publisher=%27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Advertising.Xaml\10.0\.\AppX\x64\Microsoft.Advertising.Xaml.x64.10.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkID=619694</MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Advertising.Xaml\10.0\">
+      <Name>Microsoft.Advertising.Xaml</Name>
+      <Version>10.0.1606.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Advertising.Xaml, MinVersion=10.0.1606.0, Publisher=%27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Advertising.Xaml\10.0\.\AppX\x86\Microsoft.Advertising.Xaml.x86.10.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkID=619694</MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x64\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x86\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

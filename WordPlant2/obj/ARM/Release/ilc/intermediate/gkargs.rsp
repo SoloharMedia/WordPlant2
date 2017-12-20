@@ -1,0 +1,8 @@
+/In:"C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\obj\ARM\Release\ilc\in"
+/Lib:"C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\obj\ARM\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Private"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Advertising.Xaml\10.0\References\CommonConfiguration\neutral"
+/WinMD:"C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\obj\ARM\Release\ilc\in\WinMetadata\Microsoft.Advertising.winmd"
+/WinMD:"C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\obj\ARM\Release\ilc\in\WinMetadata\Windows.winmd"
+/RdXmlPath:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\LibraryXML"
+/RunOnlyPreDR

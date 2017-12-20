@@ -1,0 +1,2 @@
+MainPackage=C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\bin\x64\Release\WordPlant2_1.3.3.0_x64.appx
+SymbolPackage=C:\Users\hardy\OneDrive\Documents\Visual Studio 2015\Projects\WordPlant2\WordPlant2\AppPackages\WordPlant2_1.3.3.0_Test\WordPlant2_1.3.3.0_x64.appxsym

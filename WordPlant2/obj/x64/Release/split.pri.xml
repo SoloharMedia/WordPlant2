@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="27010SoloharStudios.292520733B437" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>256,16,24,32,48</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://27010SoloharStudios.292520733B437/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://27010SoloharStudios.292520733B437/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StartPage.xbf" uri="ms-resource://27010SoloharStudios.292520733B437/Files/StartPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Tutorial.xbf" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Tutorial.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WordPlant2.xr.xml" uri="ms-resource://27010SoloharStudios.292520733B437/Files/WordPlant2.xr.xml">
+				<Candidate type="Path">
+					<Value>WordPlant2.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="600x600wp.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/600x600wp.png">
+					<Candidate type="Path">
+						<Value>Assets\600x600wp.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NewStoreLogo.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/NewStoreLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\NewStoreLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="wordDict.txt" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/wordDict.txt">
+					<Candidate type="Path">
+						<Value>Assets\wordDict.txt</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="ImagesWP">
+					<NamedResource name="A.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/A.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\A.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="B.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/B.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\B.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="button.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/button.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\button.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="buttonContinue.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/buttonContinue.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\buttonContinue.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="buttonHowToPlay.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/buttonHowToPlay.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\buttonHowToPlay.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="buttonNewGame.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/buttonNewGame.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\buttonNewGame.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="C.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/C.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\C.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="D.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/D.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\D.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="E.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/E.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\E.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="F.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/F.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\F.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="G.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/G.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\G.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="H.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/H.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\H.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="I.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/I.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\I.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="J.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/J.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\J.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="K.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/K.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\K.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="L.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/L.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\L.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="M.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/M.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\M.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="machineFinal.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/machineFinal.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\machineFinal.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="machineFinal2.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/machineFinal2.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\machineFinal2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="myButton.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/myButton.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\myButton.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="N.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/N.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\N.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="O.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/O.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\O.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="P.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/P.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\P.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Q.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/Q.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\Q.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="R.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/R.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\R.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="S.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/S.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\S.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="smoke.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/smoke.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\smoke.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="T.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/T.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\T.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="U.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/U.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\U.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="V.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/V.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\V.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="W.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/W.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\W.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="X.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/X.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\X.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Y.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/Y.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\Y.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Z.png" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/ImagesWP/Z.png">
+						<Candidate type="Path">
+							<Value>Assets\ImagesWP\Z.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Sounds">
+					<NamedResource name="action.wav" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/Sounds/action.wav">
+						<Candidate type="Path">
+							<Value>Assets\Sounds\action.wav</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="gameover.wav" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/Sounds/gameover.wav">
+						<Candidate type="Path">
+							<Value>Assets\Sounds\gameover.wav</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="musicBackground.mp3" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/Sounds/musicBackground.mp3">
+						<Candidate type="Path">
+							<Value>Assets\Sounds\musicBackground.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="musicStartMenu.wav" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/Sounds/musicStartMenu.wav">
+						<Candidate type="Path">
+							<Value>Assets\Sounds\musicStartMenu.wav</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rightAnswer.wav" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/Sounds/rightAnswer.wav">
+						<Candidate type="Path">
+							<Value>Assets\Sounds\rightAnswer.wav</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="wrongAnswer.wav" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Assets/Sounds/wrongAnswer.wav">
+						<Candidate type="Path">
+							<Value>Assets\Sounds\wrongAnswer.wav</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://27010SoloharStudios.292520733B437/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Microsoft.Advertising.winmd" uri="ms-resource://27010SoloharStudios.292520733B437/Files/WinMetadata/Microsoft.Advertising.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Microsoft.Advertising.winmd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Windows.winmd" uri="ms-resource://27010SoloharStudios.292520733B437/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
